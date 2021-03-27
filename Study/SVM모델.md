@@ -34,13 +34,13 @@
 
 - Lagrangina Formulation
 
+![image](https://user-images.githubusercontent.com/79880336/112724019-aef13400-8f54-11eb-9358-19d85bbde821.png)
+
 ![image](https://user-images.githubusercontent.com/79880336/112723658-0b535400-8f53-11eb-8c7e-d5a7d9284ebe.png)
 
 - Lagrangina Dual
 (목적식과 제약식을 하나로 만들기)
 
-![image](https://user-images.githubusercontent.com/79880336/112724019-aef13400-8f54-11eb-9358-19d85bbde821.png)
- 
 ![image](https://user-images.githubusercontent.com/79880336/112723736-62f1bf80-8f53-11eb-8fb6-2cb2887f13d7.png)
 
 ![image](https://user-images.githubusercontent.com/79880336/112723748-7735bc80-8f53-11eb-95eb-77e527630c74.png)
