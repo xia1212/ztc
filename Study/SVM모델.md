@@ -83,6 +83,11 @@
 
 ![image](https://user-images.githubusercontent.com/79880336/112724658-c978dc80-8f57-11eb-9b9d-d3c7cf901ee5.png)
 
+-  비선형 모델을 사용할때는 Kernel 설정이 필요함
+
+![image](https://user-images.githubusercontent.com/79880336/112724865-a7cc2500-8f58-11eb-9a9e-62cefd1c133e.png)
+
+
 
 
 
