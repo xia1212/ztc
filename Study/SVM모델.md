@@ -52,4 +52,37 @@
 ![image](https://user-images.githubusercontent.com/79880336/112723884-093dc500-8f54-11eb-9a17-4df597f332c5.png)
 
 
+#  Linearly Nonesparable Case
+(Soft Margin SVM)
+
+![image](https://user-images.githubusercontent.com/79880336/112724277-ef9d7d00-8f55-11eb-9da7-f491d76c2450.png)
+
+- 선형으로 분리할 수 없는 경우
+
+![image](https://user-images.githubusercontent.com/79880336/112724304-0c39b500-8f56-11eb-875f-c7672fb3f7b1.png)
+
+- Margin 최대화
+
+![image](https://user-images.githubusercontent.com/79880336/112724339-2e333780-8f56-11eb-8bca-be36a2f4cd33.png)
+
+![image](https://user-images.githubusercontent.com/79880336/112724377-62a6f380-8f56-11eb-99cc-1be7866abc6f.png)
+
+# Kernel Methods for Nonlinear Classification
+
+![image](https://user-images.githubusercontent.com/79880336/112724463-de08a500-8f56-11eb-8dc3-8e1e0e235d7e.png)
+
+![image](https://user-images.githubusercontent.com/79880336/112724486-fbd60a00-8f56-11eb-9edc-607bc09f61d7.png)
+
+- 변환
+
+![image](https://user-images.githubusercontent.com/79880336/112724525-2758f480-8f57-11eb-8b2d-4504c78bc495.png)
+
+![image](https://user-images.githubusercontent.com/79880336/112724566-50798500-8f57-11eb-9e23-1ef2281a0ac3.png)
+
+- Kernel Functions 
+
+![image](https://user-images.githubusercontent.com/79880336/112724658-c978dc80-8f57-11eb-9b9d-d3c7cf901ee5.png)
+
+
+
 
