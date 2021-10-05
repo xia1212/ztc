@@ -19,8 +19,6 @@ RNN의 구조는 위의 그림과 같이 나타낼 수 있다.
 
 ![image](https://user-images.githubusercontent.com/79880336/136033458-ec1cb8ad-1ef4-4ff9-a22d-71b05071b8c3.png)
 
-각각의 RNN cell에서 출력값 생성
-
 
 ![image](https://user-images.githubusercontent.com/79880336/136033537-f6ce49a0-f65d-45b6-b396-e65f6cfb4c85.png)
 
