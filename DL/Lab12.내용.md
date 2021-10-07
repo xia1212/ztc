@@ -40,3 +40,32 @@ RNN의 구조는 위의 그림과 같이 나타낼 수 있다.
 - many to one: ex) 감정 분석 (문장을 통해 감정을 분석)
 - many to many 1: ex) 자동 번역 (문장을 다른 언어로 번역)
 - many to many 2: ex) 비디오를 프레임 단위로 설명
+
+# 모델 만들기
+
+![image](https://user-images.githubusercontent.com/79880336/136398011-c7cf6435-9535-4321-b52d-ec5f510f607f.png)
+
+language 모델 만들기
+
+![image](https://user-images.githubusercontent.com/79880336/136398106-c0d359e4-ba42-48c8-b1c1-4ed501a3adc7.png)
+
+RNN cell을 생성할때 원하는 종류를 선택할 수 있음
+
+![image](https://user-images.githubusercontent.com/79880336/136398303-6cd539ae-8572-4251-aa61-25b820e3326b.png)
+
+cell을 생성하였으면 cell을 동작시키는 코드가 필요
+
+![image](https://user-images.githubusercontent.com/79880336/136398529-486275f4-6430-489b-bb69-e7491b74199f.png)
+
+5개의 문자로 이루어진 단어이므로 hidden size는 5로 설정하고, 
+
+input_dimension 또한 5로 설정한다.
+
+하나의 단어만 학습해서 batch = 1 로 설정한다.
+
+단어에서 마지막 부분은 들어갈 필요가 없으므로 6으로 설정한다.
+
+## 최종
+
+![image](https://user-images.githubusercontent.com/79880336/136398836-b6c779e6-02f7-4abd-b607-e3a6549b70ef.png)
+
