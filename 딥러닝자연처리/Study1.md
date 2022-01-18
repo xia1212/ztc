@@ -1,12 +1,20 @@
 # 1. Bag of words
 
-- 문장의 유사도 (Sentence similarity)
+![image](https://user-images.githubusercontent.com/79880336/149944938-e0f3fe9b-a737-450f-88fa-fbc7eb90251d.png)
 
-- 단점 (Limitation)
-- Sparsity (학습량이 많아진다)
-- Frequent words has more power (많이 나오던 단어에 힘이 커진다)
-- ignoring word orders (순서 무시하고, 문맥이 무시된다)
-- out of vocabulary (오타)
+![image](https://user-images.githubusercontent.com/79880336/149944980-be6a7c12-058e-4829-a56e-cb3d3b26f98f.png)
+
+- 문장의 유사도 (Sentence similarity)
+- 
+![image](https://user-images.githubusercontent.com/79880336/149945011-5868a680-1533-4a19-b181-bdfa61b8c5a5.png)
+
+![image](https://user-images.githubusercontent.com/79880336/149945101-b937f5da-d535-4f53-a08a-5d143e4ebb84.png)
+
+- Limitation (단점)
+: Sparsity (학습량이 많아진다)
+: Frequent words has more power (많이 나오던 단어에 힘이 커진다)
+: ignoring word orders (순서 무시하고, 문맥이 무시된다)
+: out of vocabulary (오타)
 
 
 # 2. n-그램
@@ -16,14 +24,37 @@
 
 2-1. 1-gram (unigram)
 
+![image](https://user-images.githubusercontent.com/79880336/149945416-1cbccca7-d5ef-4bef-8670-5f8f3e87db01.png)
+
 2-2. 2-gram (bigram)
 - 2개의 단어가 하나의 묶음
 
+![image](https://user-images.githubusercontent.com/79880336/149945460-7d94cd9a-77fe-468e-8c53-40b2cbd121b8.png)
+
 2-3. 3-gram (trigram)
+
+![image](https://user-images.githubusercontent.com/79880336/149945526-2b64d890-c88d-43b8-b6c2-c435e3f11bfb.png)
 
 - Why n-gram?
 : Bag of words 의 단점을 극복
 : 다음 단어 예측 (Naive Next word prediction)
+: 오타 발견
+
+![image](https://user-images.githubusercontent.com/79880336/149945613-301a6bca-d11e-4dc8-9ccd-d76496c326d5.png)
+
+- bag of words 단점
+: bag of words ignore word sequence
+
+![image](https://user-images.githubusercontent.com/79880336/149945836-05e4abc0-d98a-4154-bb58-e6d03c29f041.png)
+
+- bigram 사용
+
+![image](https://user-images.githubusercontent.com/79880336/149945977-2351f8c0-07d0-4c07-8c72-7348d9667a7e.png)
+
+- Naive Next word prediction
+- Navie Spell checker
+
+
 
 # 3.TF-IDF
 
