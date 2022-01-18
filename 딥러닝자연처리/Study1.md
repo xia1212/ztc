@@ -89,8 +89,8 @@
 # 4. 자연어처리의 유사도 측정 방법(거리측정,코사인 유사도)
 
 - How to check similarity in vector space?
-: Euclidean Distance (유클리디안 거리)
-: Cosine Similarity
+1. Euclidean Distance (유클리디안 거리)
+2. Cosine Similarity
 
 - Euclidean Distance
 : 거리가 짧을수록 유사도가 높다 
