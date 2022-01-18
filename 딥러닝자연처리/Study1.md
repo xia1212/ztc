@@ -5,16 +5,16 @@
 ![image](https://user-images.githubusercontent.com/79880336/149944980-be6a7c12-058e-4829-a56e-cb3d3b26f98f.png)
 
 - 문장의 유사도 (Sentence similarity)
-- 
+
 ![image](https://user-images.githubusercontent.com/79880336/149945011-5868a680-1533-4a19-b181-bdfa61b8c5a5.png)
 
 ![image](https://user-images.githubusercontent.com/79880336/149945101-b937f5da-d535-4f53-a08a-5d143e4ebb84.png)
 
 - Limitation (단점)
-: Sparsity (학습량이 많아진다)
-: Frequent words has more power (많이 나오던 단어에 힘이 커진다)
-: ignoring word orders (순서 무시하고, 문맥이 무시된다)
-: out of vocabulary (오타)
+1. Sparsity (학습량이 많아진다)
+2. Frequent words has more power (많이 나오던 단어에 힘이 커진다)
+3. ignoring word orders (순서 무시하고, 문맥이 무시된다)
+4. out of vocabulary (오타)
 
 
 # 2. n-그램
