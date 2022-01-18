@@ -115,19 +115,19 @@
 ![image](https://user-images.githubusercontent.com/79880336/149949333-638a0faf-3594-41b3-8fb0-227bd55014b2.png)
 
 - Advantage of TF-IDF bag of words (장점)
-: Easy to get document similarity (구현하기 쉽다)
-: Keep relevant words score (중요한 단어에 점수 유지)
-: lower just frequent words score 
+1. Easy to get document similarity (구현하기 쉽다)
+2. Keep relevant words score (중요한 단어에 점수 유지)
+3. lower just frequent words score 
 
 - Drawback of TF-IDF bag of words (단점)
-: Only based on Terms(words) (단어만 보고, 속에 있는 유사도는 안봄)
-: Weak on capturing document topic (단어 파악이 안됨)
-: Weak handling synonym (different words but same meaning)
+1. Only based on Terms(words) (단어만 보고, 속에 있는 유사도는 안봄)
+2. Weak on capturing document topic (단어 파악이 안됨)
+3. Weak handling synonym (different words but same meaning)
 
 - How to overcome Drawbacks of TF-IDF?
-: LSA (Latent Semantic Analysis)
-: Word Embeddings (Word2Vec, Glove)
-: conceptNet
+1. LSA (Latent Semantic Analysis)
+2. Word Embeddings (Word2Vec, Glove)
+3. conceptNet
 
 # 6. 잠재 의미분석(LSA, Latent Semantic Analysis)
 
